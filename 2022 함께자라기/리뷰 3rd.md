@@ -67,7 +67,7 @@
 
 <img src="../images/subwayArrivalRateGraph.jpg">
 
-##### 출처: [함께 자라기 ](https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=4808966262335&orderClick=LEA&Kc=)
+##### 출처: [함께 자라기 eBook](https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=4808966262335&orderClick=LEA&Kc=)
 
 
  > 그렇기에 20분을 중심으로 왼쪽의 영역이 50%도 안된다고 하면서, 동전뒤집기 맞출확률 보다 낮다고 한다.    
