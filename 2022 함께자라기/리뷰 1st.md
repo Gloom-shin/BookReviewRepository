@@ -49,7 +49,7 @@
          - 자기계발서적을 읽고 난뒤 피드백
     - 2. 정보공유 
          - 각자 다른 영역을 공부하고 다른 사람에게 이해가 될때까지 가르치는 것!
-         - ex) 테크톡 [YouTube TechTalk](https://www.youtube.com/watch?v=rbm87IFpwvQ&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH)
+         - ex) 테크톡 [(YouTube TechTalk)](https://www.youtube.com/watch?v=rbm87IFpwvQ&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH)
 
 ### 6. 프로그래머와 소프트웨어 개발자의 차이
  - 프로그래머 : 코드를 치는 사람
