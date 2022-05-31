@@ -66,7 +66,7 @@
     - 하지만, 1일, 1년이 걸리는 확률은 0이 아니기에, 그래프는 시간이 흐를 수록 0에 닿지않고 무한으로 수렴한다.
 
 <img src="../images/subwayArrivalRateGraph.jpg">
- 출처: https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=4808966262335&orderClick=LEA&Kc=
+##### 출처: [함께 자라기 ] (https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=4808966262335&orderClick=LEA&Kc=)
 
  > 그렇기에 20분을 중심으로 왼쪽의 영역이 50%도 안된다고 하면서, 동전뒤집기 맞출확률 보다 낮다고 한다.    
  > 하지만 난 이말이 충격적으로 들린다기보단, 좀.. 몰입을 깨는 조금 억지로 들리였다.
