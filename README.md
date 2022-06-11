@@ -18,6 +18,8 @@
  - 한 권으로 읽는 컴퓨터 구조와 프로그래밍(조너선 스타인하트)
    [교보문고 링크](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&barcode=9791189909284) 
 
+ - **스프링 책 추천**: [토비의 스프링](http://www.yes24.com/Product/Goods/7516911)
+ - **JPA 책 추천**:  [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233)
 
 ### 2023✔
  - 오브젝트:코드로 이해하는 객체지향 설계(조영호)
