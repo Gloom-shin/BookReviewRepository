@@ -28,5 +28,7 @@
    [Yes24 링크](http://www.yes24.com/Product/Goods/105138479)
  - 데이터베이스 첫걸음(미크 , 기무라 메이지 )
  [교보문구 링크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968487316&orderClick=LAG&Kc=)
+ - HTTP/2 in Action(배리 폴라드 지음)
+  [교보문구 링크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161754475&orderClick=LIZ&Kc=)
 
 ---
