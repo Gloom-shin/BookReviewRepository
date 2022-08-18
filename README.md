@@ -20,7 +20,7 @@
 
  - **스프링 책 추천**: [토비의 스프링](http://www.yes24.com/Product/Goods/7516911)
  - **JPA 책 추천**:  [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233)
-
+ - **자바 책 추천** : [이펙티브 자바](http://www.yes24.com/Product/Goods/65551284)
 ### 2023✔
  - 오브젝트:코드로 이해하는 객체지향 설계(조영호)
   [교보문고 링크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158391409&orderClick=LAG&Kc=)
