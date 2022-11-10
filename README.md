@@ -5,11 +5,12 @@
 ## 읽은 책 목록📖
 ### 2022
  -  함께자라기(김창준) 
- -  객체지향의 사실과 오해 (조영호) ← 👀
+ -  객체지향의 사실과 오해 (조영호) 
+ - **JPA 책 추천**:  [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233)← 👀
 
 <br></br>
 ## 앞으로 읽고자 하는 책 목록🔍
-###  2022✔
+###  2023✔
  - 스프링 입문을 위한 자바 객체 지향의 원리와 이해 (김종민)  [교보문고 링크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139940&orderClick=LAG&Kc=)
  - REFACTORING_1판 (마틴파울러)  절판되어 [알라딘 링크](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=20793053)
 
@@ -21,7 +22,7 @@
  - **스프링 책 추천**: [토비의 스프링](http://www.yes24.com/Product/Goods/7516911)
  - **JPA 책 추천**:  [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233)
  - **자바 책 추천** : [이펙티브 자바](http://www.yes24.com/Product/Goods/65551284)
-### 2023✔
+### 2024✔
  - 오브젝트:코드로 이해하는 객체지향 설계(조영호)
   [교보문고 링크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158391409&orderClick=LAG&Kc=)
  - 만들면서 배우는 클린 아키텍처(톰 홈버그)
