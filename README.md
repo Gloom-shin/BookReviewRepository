@@ -7,6 +7,7 @@
  -  함께자라기(김창준) 
  -  객체지향의 사실과 오해 (조영호) 
  - **JPA 책 추천**:  [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233)← 👀
+  - 김영한님 강의로 진행중 [김영한의 스프링 부트와 JPA 실무 완전 정복](https://www.inflearn.com/course/ORM-JPA-Basic)
 
 <br></br>
 ## 앞으로 읽고자 하는 책 목록🔍
@@ -20,7 +21,6 @@
    [교보문고 링크](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&barcode=9791189909284) 
 
  - **스프링 책 추천**: [토비의 스프링](http://www.yes24.com/Product/Goods/7516911)
- - **JPA 책 추천**:  [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233)
  - **자바 책 추천** : [이펙티브 자바](http://www.yes24.com/Product/Goods/65551284)
 ### 2024✔
  - 오브젝트:코드로 이해하는 객체지향 설계(조영호)
